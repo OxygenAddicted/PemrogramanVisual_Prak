@@ -1,0 +1,9 @@
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1_PV2\Tugas1_PV2\obj\Debug\Tugas1_PV2.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1_PV2\Tugas1_PV2\obj\Debug\Tugas1_PV2.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1_PV2\Tugas1_PV2\obj\Debug\Tugas1_PV2.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1_PV2\Tugas1_PV2\bin\Debug\Tugas1_PV2.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1_PV2\Tugas1_PV2\bin\Debug\Tugas1_PV2.exe
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1_PV2\Tugas1_PV2\bin\Debug\Tugas1_PV2.pdb
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1_PV2\Tugas1_PV2\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1_PV2\Tugas1_PV2\obj\Debug\Tugas1_PV2.exe
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1_PV2\Tugas1_PV2\obj\Debug\Tugas1_PV2.pdb
