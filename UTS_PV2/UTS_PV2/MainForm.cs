@@ -102,7 +102,7 @@ namespace UTS_PV2
 			}
 		}
 		
-		public void mean()
+		public void mean() //Calculating mean of ip1, ip2, and ip3 to be ipk
 		{
 			try
 			{
