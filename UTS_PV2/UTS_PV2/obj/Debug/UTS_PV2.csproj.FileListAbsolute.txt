@@ -1,0 +1,9 @@
+C:\Users\user\Documents\SharpDevelop Projects\UTS_PV2\UTS_PV2\obj\Debug\UTS_PV2.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\UTS_PV2\UTS_PV2\bin\Debug\UTS_PV2.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\UTS_PV2\UTS_PV2\bin\Debug\UTS_PV2.exe
+C:\Users\user\Documents\SharpDevelop Projects\UTS_PV2\UTS_PV2\bin\Debug\UTS_PV2.pdb
+C:\Users\user\Documents\SharpDevelop Projects\UTS_PV2\UTS_PV2\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\SharpDevelop Projects\UTS_PV2\UTS_PV2\obj\Debug\UTS_PV2.exe
+C:\Users\user\Documents\SharpDevelop Projects\UTS_PV2\UTS_PV2\obj\Debug\UTS_PV2.pdb
+C:\Users\user\Documents\SharpDevelop Projects\UTS_PV2\UTS_PV2\obj\Debug\UTS_PV2.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\UTS_PV2\UTS_PV2\obj\Debug\UTS_PV2.csproj.GenerateResource.Cache
