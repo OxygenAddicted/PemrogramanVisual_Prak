@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump
+- version 5.1.1
+- https://www.phpmyadmin.net
+-
+- Host: 127.0.0.1
+- Generation Time: Jun 15, 2022 at 06:12 PM
+- Server version: 10.4.19-MariaDB
+- PHP Version: 8.0.7
+-->
+
+<pma_xml_export version="1.0" xmlns:pma="https://www.phpmyadmin.net/some_doc_url/">
+    <!--
+    - Structure schemas
+    -->
+    <pma:structure_schemas>
+        <pma:database name="dbkantor" collation="utf8mb4_general_ci" charset="utf8mb4">
+            <pma:table name="data_pegawai">
+                CREATE TABLE `data_pegawai` (
+                  `NIP` varchar(11) NOT NULL,
+                  `Nama` varchar(44) NOT NULL,
+                  `Domisili` varchar(22) NOT NULL,
+                  `Jenis_Kelamin` enum('Laki-laki','Perempuan','','') NOT NULL,
+                  `Jabatan` varchar(33) NOT NULL,
+                  PRIMARY KEY (`NIP`)
+                ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+            </pma:table>
+        </pma:database>
+    </pma:structure_schemas>
+
+    <!--
+    - Database: 'dbkantor'
+    -->
+    <database name="dbkantor">
+        <!-- Table data_pegawai -->
+        <table name="data_pegawai">
+            <column name="NIP">1298001</column>
+            <column name="Nama">Al Imamul Luthfi</column>
+            <column name="Domisili">Medan</column>
+            <column name="Jenis_Kelamin">Laki-laki</column>
+            <column name="Jabatan">CEO</column>
+        </table>
+        <table name="data_pegawai">
+            <column name="NIP">1298002</column>
+            <column name="Nama">Avin Chaili Salim</column>
+            <column name="Domisili">Medan</column>
+            <column name="Jenis_Kelamin">Laki-laki</column>
+            <column name="Jabatan">CTO</column>
+        </table>
+    </database>
+</pma_xml_export>
